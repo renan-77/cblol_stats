@@ -1,0 +1,137 @@
+1597704697225	geckodriver	INFO	Listening on 127.0.0.1:58805
+1597704697231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4txJN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597704699469	Marionette	INFO	Listening on port 45647
+1597704699547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597704709318	Marionette	INFO	Stopped listening on port 45647
+1597704881020	geckodriver	INFO	Listening on 127.0.0.1:37481
+1597704881024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefq0xq2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597704883279	Marionette	INFO	Listening on port 37035
+1597704883336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705340393	geckodriver	INFO	Listening on 127.0.0.1:57151
+1597705340398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5mPUxc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705342961	Marionette	INFO	Listening on port 37823
+1597705343015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597705356774	geckodriver	INFO	Listening on 127.0.0.1:39999
+1597705356780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfRUJJ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705359887	Marionette	INFO	Listening on port 45101
+1597705359990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705377288	Marionette	INFO	Stopped listening on port 45101
+1597705381090	Marionette	INFO	Stopped listening on port 37823
+1597705541791	geckodriver	INFO	Listening on 127.0.0.1:54241
+1597705541795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenGNtQA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705544181	Marionette	INFO	Listening on port 44369
+1597705544212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705564711	Marionette	INFO	Stopped listening on port 44369
+1597705677369	geckodriver	INFO	Listening on 127.0.0.1:45407
+1597705677375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFH1iGh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705680041	Marionette	INFO	Listening on port 37859
+1597705680089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597705693960	Marionette	INFO	Stopped listening on port 37859
+1597705774213	geckodriver	INFO	Listening on 127.0.0.1:43195
+1597705774218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcvg23"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705777068	Marionette	INFO	Listening on port 41173
+1597705777138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705790917	Marionette	INFO	Stopped listening on port 41173
+1597705873449	geckodriver	INFO	Listening on 127.0.0.1:33811
+1597705873456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBsuHdy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705876063	Marionette	INFO	Listening on port 38139
+1597705876179	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597705877778	Marionette	INFO	Stopped listening on port 38139
+1597705879174	geckodriver	INFO	Listening on 127.0.0.1:35429
+1597705879179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletd7ksO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705882082	Marionette	INFO	Listening on port 38633
+1597705882102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705904057	geckodriver	INFO	Listening on 127.0.0.1:43231
+1597705904061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegtJeJz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705906535	Marionette	INFO	Stopped listening on port 38633
+1597705906796	Marionette	INFO	Listening on port 42969
+1597705906910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1597705933654	geckodriver	INFO	Listening on 127.0.0.1:60509
+1597705933660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiisX6L"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597705936741	Marionette	INFO	Listening on port 38461
+1597705936787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597705956084	Marionette	INFO	Stopped listening on port 38461
+1597706112096	geckodriver	INFO	Listening on 127.0.0.1:54099
+1597706112102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16zT8g"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597706114464	Marionette	INFO	Listening on port 32989
+1597706114510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597706127573	Marionette	INFO	Stopped listening on port 32989
+1597706153492	geckodriver	INFO	Listening on 127.0.0.1:60667
+1597706153497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD9L2Xb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597706156376	Marionette	INFO	Listening on port 45867
+1597706156419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597706197652	Marionette	INFO	Stopped listening on port 45867
+1597710126658	Marionette	INFO	Stopped listening on port 37035
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+JavaScript error: https://lolesports.com/common.acad5df36574c2182d15.js, line 1: TypeError: e.log is undefined
+Gdk-Message: 19:47:23.030: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 19:47:23.031: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
